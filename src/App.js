@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">Dictionary</header>
         <main>
-          <Dictionary defaultKeyword="hope" />
+          <Dictionary defaultKeyword="dawn" />
         </main>
         <footer className="App-footer">Coded by Viviana Castellanos</footer>
       </div>
